@@ -1,0 +1,399 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "avg",
+      "request": "launch",
+      "mainClass": "avg",
+      "projectName": "java_dc4197a6"
+    },
+    {
+      "type": "java",
+      "name": "haspmap",
+      "request": "launch",
+      "mainClass": "haspmap",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "priorityq",
+      "request": "launch",
+      "mainClass": "priorityq",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "syncho",
+      "request": "launch",
+      "mainClass": "syncho",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "binaary",
+      "request": "launch",
+      "mainClass": "binaary",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "listduplicate",
+      "request": "launch",
+      "mainClass": "listduplicate",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "dectobin",
+      "request": "launch",
+      "mainClass": "dectobin",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "FileIntegerSorter",
+      "request": "launch",
+      "mainClass": "FileIntegerSorter",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "demo",
+      "request": "launch",
+      "mainClass": "demo",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "file",
+      "request": "launch",
+      "mainClass": "file",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "AgeVerification",
+      "request": "launch",
+      "mainClass": "AgeVerification",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "count",
+      "request": "launch",
+      "mainClass": "count",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "ArrayAvg",
+      "request": "launch",
+      "mainClass": "ArrayAvg",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "Interface",
+      "request": "launch",
+      "mainClass": "Interface",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "MainDemo",
+      "request": "launch",
+      "mainClass": "MainDemo",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "PointTest",
+      "request": "launch",
+      "mainClass": "PointTest",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "ac",
+      "request": "launch",
+      "mainClass": "ac",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "area",
+      "request": "launch",
+      "mainClass": "area",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "arrayop",
+      "request": "launch",
+      "mainClass": "arrayop",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "avg",
+      "request": "launch",
+      "mainClass": "avg",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "bank",
+      "request": "launch",
+      "mainClass": "bank",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "bmi",
+      "request": "launch",
+      "mainClass": "bmi",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "cartesian",
+      "request": "launch",
+      "mainClass": "cartesian",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "checkmark",
+      "request": "launch",
+      "mainClass": "checkmark",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "checkvowel",
+      "request": "launch",
+      "mainClass": "checkvowel",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "commandline",
+      "request": "launch",
+      "mainClass": "commandline",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "conversion",
+      "request": "launch",
+      "mainClass": "conversion",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "count",
+      "request": "launch",
+      "mainClass": "count",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "crammer",
+      "request": "launch",
+      "mainClass": "crammer",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "custom",
+      "request": "launch",
+      "mainClass": "custom",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "desc",
+      "request": "launch",
+      "mainClass": "desc",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "emp",
+      "request": "launch",
+      "mainClass": "emp",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "employees",
+      "request": "launch",
+      "mainClass": "employees",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "exam1",
+      "request": "launch",
+      "mainClass": "exam1",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "findarea",
+      "request": "launch",
+      "mainClass": "findarea",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "gcd",
+      "request": "launch",
+      "mainClass": "gcd",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "minelement",
+      "request": "launch",
+      "mainClass": "minelement",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "password",
+      "request": "launch",
+      "mainClass": "password",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "prefix",
+      "request": "launch",
+      "mainClass": "prefix",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "rec",
+      "request": "launch",
+      "mainClass": "rec",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "removeduplicate",
+      "request": "launch",
+      "mainClass": "removeduplicate",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "removestr",
+      "request": "launch",
+      "mainClass": "removestr",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "removestring",
+      "request": "launch",
+      "mainClass": "removestring",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "reversestring",
+      "request": "launch",
+      "mainClass": "reversestring",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "selectionsort",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "t",
+      "request": "launch",
+      "mainClass": "t",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "time",
+      "request": "launch",
+      "mainClass": "time",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "userdefinedexeption",
+      "request": "launch",
+      "mainClass": "userdefinedexeption",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "volume",
+      "request": "launch",
+      "mainClass": "volume",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "vowel",
+      "request": "launch",
+      "mainClass": "vowel",
+      "projectName": "java_c7abe800"
+    },
+    {
+      "type": "java",
+      "name": "zero",
+      "request": "launch",
+      "mainClass": "zero",
+      "projectName": "java_c7abe800"
+    }
+  ]
+}
